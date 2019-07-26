@@ -1,5 +1,3 @@
-
-©Y SamsaraØ¼çÎç¿ 2019/7/22 17:26:12
 #include<stdio.h> 
 
 int n,m,maxValue;
